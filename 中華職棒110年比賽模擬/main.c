@@ -10,6 +10,8 @@ int main(void) {
 	start_sim();
 	show();
 	}
+	printf("\n«ö¥ô·NÁäÂ÷¶}");
+	getchar();
 	
 	return 0;
 }
